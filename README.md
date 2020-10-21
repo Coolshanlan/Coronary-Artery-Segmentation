@@ -10,7 +10,7 @@ https://daneshyari.com/article/preview/557554.pdf
 
 Gabor Image enhanced
 ## CT圖方向
-![](https://github.com/Coolshanlan/Coronary-Artery-Segmentation\CT_Helper.png)
+![](https://github.com/Coolshanlan/Coronary-Artery-Segmentation/blob/master/CT_Helper.png)
 
 ## **名詞對照表**
 
