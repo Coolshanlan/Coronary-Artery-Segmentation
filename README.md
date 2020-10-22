@@ -11,7 +11,8 @@ https://daneshyari.com/article/preview/557554.pdf
 Gabor Image enhanced
 ## CT圖方向
 ![](https://github.com/Coolshanlan/Coronary-Artery-Segmentation/blob/master/CT_Helper.png)
-
+## PyDicom 入門
+[處理醫療影像的Python利器：PyDicom](https://zhuanlan.zhihu.com/p/59413289)
 ## **名詞對照表**
 
 **Computed Tomography** 電腦斷層
