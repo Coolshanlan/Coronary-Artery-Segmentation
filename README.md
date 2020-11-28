@@ -1,6 +1,8 @@
 ## 待看(可以看裡面enhance 的部分)
 https://www.researchgate.net/publication/339900110_A_New_Strategy_to_Detect_Lung_Cancer_on_CT_Images
 
+## Medical Image Complete
+[Grand Challenge](https://grand-challenge.org/)
 ## 自適應職方圖拓寬(色階調整)
 https://www.itread01.com/content/1542310036.html
 
@@ -13,6 +15,13 @@ Gabor Image enhanced
 ![](https://github.com/Coolshanlan/Coronary-Artery-Segmentation/blob/master/CT_Helper.png)
 ## PyDicom 入門
 [處理醫療影像的Python利器：PyDicom](https://zhuanlan.zhihu.com/p/59413289)
+### RunTimeError raised StopIteration
+Find the filereader file of dicom lib at your env and replace *raised StopIteration* to return
+
+### Kaggle Complete
+[Data Science Bowl 2017](https://www.kaggle.com/c/data-science-bowl-2017/overview)
+
+
 ## **名詞對照表**
 
 **Computed Tomography** 電腦斷層
@@ -51,3 +60,9 @@ Gabor Image enhanced
 
 ![](https://www.researchgate.net/profile/George_Angelidis2/publication/322314679/figure/fig1/AS:640282919972865@1529666752438/Fig-1-Right-and-left-coronary-trees-LAD-left-anterior-descending-artery-LCx-left.png)
 ![](https://upload.wikimedia.org/wikipedia/commons/c/c9/Coronary_arteries.png)
+
+## ITK
+
+### 3D segmentation
+Lower threshold 260
+Upper threshold 935
