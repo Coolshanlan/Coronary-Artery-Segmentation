@@ -1,6 +1,7 @@
 ## 待看(可以看裡面enhance 的部分)
 https://www.researchgate.net/publication/339900110_A_New_Strategy_to_Detect_Lung_Cancer_on_CT_Images
-
+## Model
+[3D Unet介紹](https://martin12345m.medium.com/3d-unet%E5%B0%8F%E7%B0%A1%E4%BB%8B-%E5%AF%A6%E4%BD%9C-3-e8f1166cc09f)
 ## Medical Image Complete
 [Grand Challenge](https://grand-challenge.org/)
 ## 自適應職方圖拓寬(色階調整)
@@ -62,7 +63,13 @@ Find the filereader file of dicom lib at your env and replace *raised StopIterat
 ![](https://upload.wikimedia.org/wikipedia/commons/c/c9/Coronary_arteries.png)
 
 ## ITK
-
 ### 3D segmentation
-Lower threshold 260
-Upper threshold 935
+[Download](https://sourceforge.net/projects/itk-snap/files/itk-snap/3.6.0/itksnap-3.6.0-20170401-win64.exe/download)
+
+Lower threshold 260 / Upper threshold 935
+## 3D Slicer
+[Download](https://www.slicer.org/)
+### Extension
+https://www.slicer.org/wiki/Documentation/4.3/SlicerApplication/ExtensionsManager
+### Free tools
+https://www.youtube.com/watch?v=ucnvE16pkmI
